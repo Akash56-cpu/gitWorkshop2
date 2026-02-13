@@ -2,8 +2,11 @@ const age = 21;
 const name = "Akash";
 
 function getName(name){
-    return name2;
+    return name;
 }
 function getRoll(){
     return "roll number";
+}
+function sale(){
+    return 'sale';
 }
