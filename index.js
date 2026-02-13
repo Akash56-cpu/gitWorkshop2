@@ -10,3 +10,6 @@ function getRoll(){
 function sale(){
     return 'sale';
 }
+function feature (){
+    return 'screen';
+}
